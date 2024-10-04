@@ -1,5 +1,5 @@
 # Installation
 
-Download the whole repository and run (run.py)
+Download the whole repository and run "main.py"
 
-Required modules: pygame (should be installed in run.py)
+Required modules: pygame
